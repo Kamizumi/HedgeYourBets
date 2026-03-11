@@ -1,0 +1,20 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+venv/
+.env*
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+dist/
+**/next-env.d.ts
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# next auth
+.env.local
